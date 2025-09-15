@@ -3,3 +3,4 @@ banana
 cherry
 orange
 mango
+pear
