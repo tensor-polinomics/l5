@@ -1,0 +1,10 @@
+.venv/share/man/man1/ttx.1
+.venv/share/man/man1/ipython.1
+.venv/share/jupyter/kernels/python3/logo-svg.svg
+.venv/share/jupyter/kernels/python3/logo-64x64.png
+.venv/share/jupyter/kernels/python3/logo-32x32.png
+.venv/share/jupyter/kernels/python3/kernel.json
+.venv/CACHEDIR.TAG
+.venv/.lock
+.venv/.gitignore
+.env
